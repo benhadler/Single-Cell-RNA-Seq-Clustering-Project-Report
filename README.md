@@ -2,7 +2,7 @@ This file contains a 10-page report of the final assignment in BENG 185 in which
 
 The paper contains sections 4 sections: 
 
-Title
+Title:
 
 Introduction: provide some background and motivation for the study, plus a brief summary of your results.
 
