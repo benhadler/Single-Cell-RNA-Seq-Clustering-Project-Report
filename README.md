@@ -6,10 +6,10 @@ Title:
 
 Introduction: Background and motivation for the study, plus a brief summary of results.
 
-Methods: Details about the tools, versions, and options you used to reproduce exactly what I did.
+Methods: Details about the tools, versions, and options used in order to reproduce exactly what I did.
 
-Results: Summary of the item of the original paper you reproduced. Result shown side by side with the result reproduced.
+Results: Summary of the item of the original paper reproduced. Result shown side by side with the original item.
 
-Discussion: potential limitations of the analysis, challenges faced, and possible areas of improvement in the data pipeline.
+Discussion: Potential limitations of the analysis, challenges faced, and potential areas for improvement in the data pipeline.
 
 References:
